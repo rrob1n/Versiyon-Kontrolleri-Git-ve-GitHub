@@ -1,3 +1,4 @@
 git kursuna hosgeldiniz umarim herkes icin faydali olur.
 
 bu dersimizde gitignore konusunu ogreniyoruz
+gitignore konusunu bitirdik
