@@ -1,3 +1,7 @@
 python kitabi
 
-bu kitap cok guzel olacak hepimiz ogrencegiz
+önzöz : bu kitap cok guzel olacak hepimiz ogrencegiz
+
+ilk bolum : degiskenler ve veri tipleri
+
+degiskenler cok onemlidir
