@@ -4,4 +4,3 @@ sadece uygulama degil web gelistirme icin de kullanilabilir
 
 4.commit
 
-5.commit
