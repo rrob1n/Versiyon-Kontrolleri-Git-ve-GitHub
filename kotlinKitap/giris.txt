@@ -1,1 +1,3 @@
 kotlin cok guzel bir dildir, android uygulamalari yapilabilir
+
+sadece uygulama degil web gelistirme icin de kullanilabilir
