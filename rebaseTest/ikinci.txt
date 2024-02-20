@@ -1,1 +1,3 @@
 feate ilk commiti atabilmek icin bu satiri yaziyorum
+
+featin de ikinci commiti gelsin
