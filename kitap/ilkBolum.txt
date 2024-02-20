@@ -5,3 +5,5 @@ python kitabi
 ilk bolum : degiskenler ve veri tipleri
 
 degiskenler cok onemlidir
+
+bugun branchleri ogreniyoruz
