@@ -7,3 +7,5 @@ ilk bolum : degiskenler ve veri tipleri
 degiskenler cok onemlidir
 
 bugun branchleri ogreniyoruz
+
+artik son commit i de atiyoruz
